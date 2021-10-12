@@ -1,4 +1,5 @@
 import {createMuiTheme, ThemeProvider} from '@material-ui/core';
+import CustomBtn from './components/CustomBtn';
 import './App.css';
 
 const theme = createMuiTheme({
